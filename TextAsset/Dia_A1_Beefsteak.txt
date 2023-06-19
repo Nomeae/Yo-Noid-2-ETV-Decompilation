@@ -1,0 +1,21 @@
+%n8%v2%
+Beefsteak
+%m1%The boss says I've been slacking off.
+
+%r8%v2%
+Beefsteak
+%m1%Could you do me a solid and clean up the crates before you go?
+
+%n0%v8%
+Noid
+%m1%I don't even work here.
+
+%n8%v2%
+Beefsteak
+%m1%Cool,%m0%%s1% %m1%%sD%thanks.
+
+%n3%v11%
+Noid
+%m1%Are you even listening?
+
+%n

@@ -1,0 +1,13 @@
+%n17%v13%
+Kona
+%m1%That prickly square Alfred over there says you need a license to get in the rocket,%m0%%s0.5% %sD%%m1%but I always hitch a ride on the bottom.
+
+%r17%v13%
+Kona
+%m1%Heh heh%m0%...
+
+%n1%v9%
+Noid
+%m1%Don't do crimes,%m0%%s0.5% %sD%%m1%kids.
+
+%n

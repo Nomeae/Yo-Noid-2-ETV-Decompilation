@@ -1,0 +1,25 @@
+%n17%v13%
+Kaya
+%m1%See this here?%m0%%s1% %m1%%sD%It's the pizza tower.%m0%%s1% %m1%%sD%If you were at home you'd have to build it yourself.
+
+%r17%v13%
+Kaya
+%m1%However,%m0%%s0.5% %m1%%sD%this is the <i>Store 2</i> mod where we've built the tower for you! 
+
+%n1%v9%
+Noid
+%m1%So it's a plot device.
+
+%n17%v13%
+Kaya
+%m0%...%s1% %m1%%sD%I don't get paid enough for this.
+
+%r17%v13%
+Kaya
+%m1%Look.%m0%%s1% %m1%%sD%The top brings you to the end of the game.%m0%%s1% %m1%%sD%You can't leave after you get up there.
+
+%n0%v8%
+Noid
+%m1%Don't worry,%m0%%s0.5% %m1%%sD%I get it.%m0%%s1% %m1%%sD%I'll just go somewhere else for now!
+
+%n

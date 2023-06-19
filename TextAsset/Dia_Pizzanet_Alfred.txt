@@ -1,0 +1,41 @@
+%n11%v4%
+Alfred
+%m1%Yo!%m0%%s1% %m1%%sD%Noid!%m0%%s1% %m1%%sD%You're just in time for the launch initiation.
+
+%r11%v4%
+Alfred
+%m1%The meatier showers just cleared up,%m0%%s1% %m1%%sD%we're finally good to go.
+
+%n2%v10%
+Noid
+%m1%Whoa,%m0%%s1% %m1%%sD%to space?%m0%%s1% %m1%%sD%%p0%Tubular!
+
+%n11%v4%
+Alfred
+%m1%We just need to find the key to the control room and pull the switch. 
+
+%r11%v4%
+Alfred
+%m1%I think someone dropped it down the mine shaft.
+
+%n0%v8%
+Noid
+%m1%Sounds like a pizza cake!%m0%%s1% %m1%%sD%I'm on top of it.
+
+%n11%v4%
+Alfred
+%m1%Seriously?
+
+%r11%v4%
+Alfred
+%m1%This is no time for puns.%m0%%s1% %m1%%sD%This is a professional scientific operation.
+
+%r11%v4%
+Alfred
+%m1%Please act like it.%m0%%s1% %m1%%sD%Lives are on the line.
+
+%n0%v8%
+Noid
+%m1%Got it.%m0%%s1% %m1%%sD%Down into the planet's%m0%%s1% %m1%%sD%%p1%crust%m0%%s1% %m1%%sD%I go.
+
+%n

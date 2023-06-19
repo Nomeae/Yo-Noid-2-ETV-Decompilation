@@ -1,0 +1,37 @@
+%n15%v14%
+Denise
+%m1%See that?
+
+%n0%v8%
+Noid
+%m1%Yeah,%m0%%s0.5% %m1%%sD%I can see it.%m0%%s1% %m1%%sD%What’s the big deal?
+
+%n15%v14%
+Denise
+%m1%That's the pizza tower.%m0%%s1% %m1%%sD%If you were playing at home,%m0%%s0.5% %m1%%sD%you wouldn't be able to see this right now.
+
+%r15%v14%
+Denise
+%m1%Not today!%m0%%s1% %m1%%sD%You are at <i>Store 2</i> and can do whatever you want.
+
+%r15%v14%
+Denise
+%m1%Go wild!
+
+%n0%v8%
+Noid
+%m1%Store 2?%m0%%s1% %m1%%sD%Sounds like a bore.%m0%%s1% %m1%%sD%I’m looking for some pizza to crush!
+
+%n15%v14%
+Denise
+%m1%Come on Noid,%m0%%s0.5% %m1%%sD%lighten up a bit.%m0%%s1% %m1%%sD%We’ve got beautiful pizzas tediously crafted by artistic hands.
+
+%r15%v14%
+Denise
+%m1%Part of the place is practically a tribute to your very existence.%m0%%s1% %m1%%sD%Can’t you give them a little bit of credit?
+
+%r1%v9%
+Noid
+%m1%I can’t give any credits,%m0%%s0.5% %m1%%sD%I’m all out of <i>QWOP</i> coins,%m0%%s0.5% %m1%%sD%which is the common currency in the universe I reside in.
+
+%n

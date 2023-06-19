@@ -1,0 +1,25 @@
+%n0%v8%
+Noid
+%m1%Hey mushroom chump, where am I?
+
+%n9%v1%
+Chantro
+%m1%Sproing!%m0%%s1% %m1%%sD%Sproing!%m0%%s1% %m1%%sD%Sproingy sign!
+
+%r9%v1%
+Chantro
+%m1%Reach out here and touch a sign!%m0% (Left click, X button, or right bumper)
+
+%n0%v8%
+Noid
+%m1%Why would I do that?
+
+%n9%v1%
+Chantro
+%m1%A sign from above may be your guide.
+
+%r9%v1%
+Chantro
+%m1%Sproing!
+
+%n

@@ -1,0 +1,21 @@
+%n9%v1%
+Bello
+%m1%Let me sing you the song of my people.
+
+%r9%v1%
+Bello
+%m1%Portobello,%m0%%s0.5% %m1%%sD%porcini,%m0%%s0.5% %m1%%sD%truffle chanterelle enoki!%m0%%s1% %m1%%sD%Many kinds of shrooms are we!
+
+%n0%v8%
+Noid
+%m1%You're a bit flat.%m0%%s1% %m1%%sD%Sing more from your gills!
+
+%n9%v1%
+Bello
+%m1%GOOOOOO MUSHROOM!
+
+%n2%v10%
+Noid
+%m0%...%s1% %m1%%sD%Sure.
+
+%n

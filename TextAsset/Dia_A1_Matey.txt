@@ -1,0 +1,21 @@
+%n8%v2%
+Matey
+%m1%My grandfather came from an old family with old money.
+
+%r8%v2%
+Matey
+%m1%He was an heirloom tomato.
+
+%n0%v8%
+Noid
+%m1%Is that so? Well,%m0%%s1% %sD%%m1%then pay up.
+
+%n8%v2%
+Matey
+%m1%What for?
+
+%n1%v9%
+Noid
+%m1%Royalties™.
+
+%n

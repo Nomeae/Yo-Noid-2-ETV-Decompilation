@@ -1,0 +1,17 @@
+%n15%v0%
+Crowbar
+%m1%Finally!%m0%%s1% %m1%%sD%I'm free!
+
+%r15%v0%
+Crowbar
+%m1%When I was trapped here I was separated from my boy.
+
+%r15%v0%
+Crowbar
+%m1%Have you seen him?%m0%%s1% %m1%%sD%Maybe he is behind that other door.
+
+%r15%v0%
+Crowbar
+%m1%I think I've seen that symbol before somewhere...
+
+%n

@@ -1,0 +1,17 @@
+%n9%v0%
+Truffo
+%m1%Hey! That round thingy with the string! Can I try it?
+
+%n0%v8%
+Noid
+%m1%How do you expect to throw this thing without hands?
+
+%n9%v0%
+Truffo
+%m1%Why would I throw away perfectly good candy?
+
+%n3%v11%
+Noid
+%m1%Never mind.
+
+%n

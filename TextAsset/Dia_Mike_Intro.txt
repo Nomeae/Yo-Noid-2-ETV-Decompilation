@@ -1,0 +1,113 @@
+%n0%v8%
+Noid
+%m1%Yo!%m0%%s1% %m1%%sD%Special delivery!
+
+%n12%
+Mike Hatsune
+%m0%...
+
+%r12%
+Mike Hatsune
+%m1%%e1%%s0.1%You?
+
+%r13%
+Mike Hatsune
+%m1%%e2%%s0.06%How did you get here?!
+
+%n0%v8%
+Noid
+%m1%Haha,%m0%%s1% %m1%%sD%you look like a crayon in a vest.
+
+%r0%v8%
+Noid
+%m1%How about you tell me what's going on here.
+
+%n12%
+Mike Hatsune
+%m1%%e3%%s0.07%I don't have to explain anything to a dead mascot.
+
+%n2%v10%
+Noid
+%m0%... %m1%Dead?
+
+%n12%
+Mike Hatsune
+%m1%%e4%%s0.07%Can't you see?
+
+%r12%
+Mike Hatsune
+%m1%%e5%%s0.08%Your time is up!
+
+%r12%
+Mike Hatsune
+%m1%%e6%%s0.07%You're outdated!%m0%%s0.3% %m1%%sD%%p13%Forgotten!
+
+%n2%v8%
+Noid
+%m1%So...
+
+%r3%v11%
+Noid
+%m1%You're the one who tried to steal my yo-yo?
+
+%n12%
+Mike Hatsune
+%m1%%e7%%s0.06%That's right!
+
+%r13%
+Mike Hatsune
+%m1%%e8%%s0.08%Your 30 minutes or less of fame are over!
+
+%r12%
+Mike Hatsune
+%m1%%e9%%s0.08%You are now nothing but an empty shell, an unstuffed crust!
+
+%r12%
+Mike Hatsune
+%m1%%e10%%s0.08%You don't even deserve to be a Pizza Hut mascot!
+
+%r12%
+Mike Hatsune
+%m1%%e11%%s0.1%I've created a new Noid for a new age.
+
+%r12%
+Mike Hatsune
+%m1%%e12%%s0.09%One that will be a voice for people and pizza alike.
+
+%r13%
+Mike Hatsune
+%m1%%e13%%s0.09%A vocal Noid.
+
+%n2%v10%
+Noid
+%m1%Cheesus Crust.
+
+%n12%
+Mike Hatsune
+%m1%%e14%%s0.1%It will be my legacy and sing a marinara melody!
+
+%r12%
+Mike Hatsune
+%m1%%e15%%s0.09%A 4-cheese quartet!
+
+%r12%
+Mike Hatsune
+%m1%%e16%%s0.09%A symphony of sausage!
+
+%r12%
+Mike Hatsune
+%m1%%e17%%s0.09%Once it is free I will finish what I started and erase this world.
+
+%r12%
+Mike Hatsune
+%m1%%e18%%s0.09%And it looks like I'll be erasing YOU earlier than expected!
+
+%n3%v11%
+Noid
+%m1%Bring it on,%m0%%s1% %m1%%sD%%p0%Papa John.
+
+%n12%
+Mike Hatsune
+%m1%%e19%%s0.09%Enough talk. %p13%Let's dance!
+
+%n

@@ -1,0 +1,17 @@
+%n10%v3%
+Sickle
+%m1%Hey,%m0%%s1% %m1%%sD%you're not my dad.
+
+%n0%v8%
+Noid
+%m1%What tipped you off, kid?
+
+%n10%v3%
+Sickle
+%m1%Can you help me pull this lever?
+
+%r10%v3%
+Sickle
+%m1%I would do it myself but I have no arms.%m0%%s1% %m1%%sD%No dad either.
+
+%n

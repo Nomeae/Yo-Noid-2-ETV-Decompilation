@@ -1,0 +1,17 @@
+%n8%v2%
+Mason
+%m1%My friends all left.
+
+%r8%v2%
+Mason
+%m1%I'm the only one still here on this whole planet...
+
+%n0%v8%
+Noid
+%m1%Sounds like you need to...
+
+%r1%v9%
+Noid
+%m1%... catch up.
+
+%n

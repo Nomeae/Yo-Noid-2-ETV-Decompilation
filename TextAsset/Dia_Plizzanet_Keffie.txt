@@ -1,0 +1,14 @@
+%n17%v13%
+Keffie
+%m1%I live out here in the wilderness.
+
+%r17%v13%
+Keffie
+%m1%If you're looking for a way back to the canyon,%m0%%s0.5% %m1%%sD%there's a zipline over that way.
+
+%r17%v13%
+Keffie
+%m1%Now get out of my home zone,%m0%%s0.5% %m1%%sD%bub.
+
+
+%n

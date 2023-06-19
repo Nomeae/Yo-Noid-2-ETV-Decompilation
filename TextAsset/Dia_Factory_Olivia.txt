@@ -1,0 +1,29 @@
+%n0%v8%
+Noid
+%m1%Hey! How's the weather up there?
+
+%n10%v6%
+Olivia
+%m1%Thanks for freeing me.
+
+%r10%v6%
+Olivia
+%m1%So...%m0%%s1% %m1%%sD%umm...
+
+%n0%v8%
+Noid
+%m1%Yeah?
+
+%n10%v6%
+Olivia
+%m1%Are you like...
+
+%r10%v6%
+Olivia
+%m1%... part man part rabbit?%m0%%s1% %m1%%sD%Or just a guy in a rabbit suit?
+
+%n3%v11%
+Noid
+%m0%...
+
+%n

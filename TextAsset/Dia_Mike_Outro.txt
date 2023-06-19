@@ -1,0 +1,25 @@
+%n14%
+Mike Hatsune
+%m1%%e25%%s0.1%ARGH!
+
+%r14%
+Mike Hatsune
+%m1%%e20%%s0.085%You're still too late. There is no escape.
+
+%r14%
+Mike Hatsune
+%m1%%e21%%s0.1%The first domino has fallen and your fate is now set in motion.
+
+%n1%v9%
+Noid
+%m1%Talk about a sore loser.
+
+%n14%
+Mike Hatsune
+%m1%%e22%%s0.09%Enjoy your quips while you can.
+
+%r14%
+Mike Hatsune
+%m1%%e23%%s0.085%Your replacement is out for delivery.
+
+%n

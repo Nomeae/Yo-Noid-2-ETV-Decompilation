@@ -1,0 +1,9 @@
+%n9%v3%
+Cappy
+%m1%Woah!%m0%%s1% %m1%%sD%You came through the wall!%m0%%s1% %m1%%sD%Are you a ghost?
+
+%n2%v10%
+Noid
+%m1%I hope not!
+
+%n

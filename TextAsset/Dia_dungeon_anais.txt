@@ -1,0 +1,21 @@
+%n17%v13%
+Anais
+%m1%Yo Noid!%m0%%s1% %m1%%sD%You've got some real chutzpah running around playing hero after everything you've done.
+
+%n0%v8%
+Noid
+%m1%That's none'ya business.%m0%%s1% %m1%%sD%What are you doing here anyway?
+
+%n17%v13%
+Anais
+%m1%Saw two folks come through here a while ago.%m0%%s1% %m1%%sD%Haven't seen 'em since.
+
+%r17%v13%
+Anais
+%m1%Getting past the door is easy-peasy...
+
+%r17%v13%
+Anais
+%m1%But if I were you,%m0%%s1% %m1%%sD%I'd stay away from this place until I felt like I was ready for a challenge.
+
+%n

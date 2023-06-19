@@ -1,0 +1,17 @@
+%n11%v4%
+Grick
+%m1%The name's Grick. I love cheese! This factory has tons of it.
+
+%r11%v4%
+Grick
+%m1%My friend Dippy fell in it once...
+
+%n0%v8%
+Noid
+%m1%Oh yeah? What happened to them?
+
+%n11%v4%
+Grick
+%m1%They're hot alfredo sauce now.
+
+%n

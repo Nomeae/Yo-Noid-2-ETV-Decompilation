@@ -1,0 +1,29 @@
+%n10%v6%
+Oleia
+%m1%This was once a sacred place...%m0%%s1% %m1%%sD%but one day the pizza disappeared.
+
+%n0%v8%
+Noid
+%m1%Sounds like something I would have done back in my pizza smashing days.
+
+%n10%v6%
+Oleia
+%m1%Not smashed,%m0%%s1% %m1%%sD%but taken.
+
+%r10%v6%
+Oleia
+%m1%The Heavenly Spire stood before us,%m0%%s1% %m1%%sD%in this very spot.
+
+%r10%v6%
+Oleia
+%m1%But one day it was whisked away,%m0%%s1% %m1%%sD%and here in the Void we toppings stay...
+
+%n0%v8%
+Noid
+%m1%Yo!%s0.5%%m0% %m1%%sD%Don't worry, Dr. Seuss!%m0%%s0.5% %m1%%sD%Noid's my name,%m0%%s0.5% %m1%%sD%and pizza's my game!
+
+%r1%v9%
+Noid
+%m1%Heh,%m0%%s1% %m1%%sD%get it?
+
+%n

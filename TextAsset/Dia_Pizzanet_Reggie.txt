@@ -1,0 +1,29 @@
+%n10%v3%
+Reggie
+%m1%Mining will be the end of me.
+
+%n0%v8%
+Noid
+%m1%How so?
+
+%n10%v3%
+Reggie
+%m1%Five years ago I fell down a crevice and ended up here in the core.
+
+%r10%v3%
+Reggie
+%m1%I'm not sure if anyone knows I'm down here.%m0%%s1% %m1%%sD%For all I know no one misses me.
+
+%n1%v9%
+Noid
+%m1%Cue the violins.
+
+%r0%v8%
+Noid
+%m1%Hey, there are lifts to the surface, y'know.
+
+%n10%v3%
+Reggie
+%m1%... Oh.
+
+%n
